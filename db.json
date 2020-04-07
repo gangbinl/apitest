@@ -1,13 +1,13 @@
 
 
 
-[{"sourcd":"pc_naverbs","medium":"cpc","users":6174,"new_users":5246,"sessions":2548,"bounce_rate":76.69,"avg_session_duration":45,
-  "conversion_rate":12.28,"conversion_total":310,"conversion_value_total":258520},{"sourcd":"pc_naverbs","medium":"cpc","users":6174,"new_users":5246,"sessions":2548,"bounce_rate":76.69,"avg_session_duration":452,
-  "conversion_rate":12.18,"conversion_total":311,"conversion_value_total":25234200},{"sourcd":"pc_naverbs","medium":"cpc","users":6174,"new_users":5246,"sessions":2548,"bounce_rate":76.69,"avg_session_duration":415,
-  "conversion_rate":12.23,"conversion_total":312,"conversion_value_total":25855200},{"sourcd":"naverbs","medium":"cpc1","users":6174,"new_users":5246,"sessions":2548,"bounce_rate":76.69,"avg_session_duration":455,
-  "conversion_rate":12.24,"conversion_total":313,"conversion_value_total":255345200},{"sourcd":"naverbs","medium":"cpc2","users":6174,"new_users":5246,"sessions":2548,"bounce_rate":76.69,"avg_session_duration":4532,
-  "conversion_rate":12.25,"conversion_total":314,"conversion_value_total":25864600},{"sourcd":"pc_naverbs","medium":"cpc3","users":6174,"new_users":5246,"sessions":2548,"bounce_rate":76.69,"avg_session_duration":4522,
-  "conversion_rate":12.26,"conversion_total":315,"conversion_value_total":25878900},{"sourcd":"naver","medium":"cpc23","users":6174,"new_users":5246,"sessions":2548,"bounce_rate":76.69,"avg_session_duration":4500,
-  "conversion_rate":12.27,"conversion_total":31,"conversion_value_total":258578970},{"sourcd":"pc_naverbs","medium":"cpc","users":6174,"new_users":5246,"sessions":2548,"bounce_rate":76.69,"avg_session_duration":45123,
-  "conversion_rate":12.20,"conversion_total":316,"conversion_value_total":258220},{"sourcd":"naverbs","medium":"cpc","users":6174,"new_users":5246,"sessions":2548,"bounce_rate":76.69,"avg_session_duration":1235,
+[{"source":"pc_naverbs","medium":"cpc","users":6174,"new_users":5246,"sessions":2548,"bounce_rate":76.69,"avg_session_duration":45,
+  "conversion_rate":12.28,"conversion_total":310,"conversion_value_total":258520},{"source":"pc_naverbs","medium":"cpc","users":6174,"new_users":5246,"sessions":2548,"bounce_rate":76.69,"avg_session_duration":452,
+  "conversion_rate":12.18,"conversion_total":311,"conversion_value_total":25234200},{"source":"pc_naverbs","medium":"cpc","users":6174,"new_users":5246,"sessions":2548,"bounce_rate":76.69,"avg_session_duration":415,
+  "conversion_rate":12.23,"conversion_total":312,"conversion_value_total":25855200},{"source":"naverbs","medium":"cpc1","users":6174,"new_users":5246,"sessions":2548,"bounce_rate":76.69,"avg_session_duration":455,
+  "conversion_rate":12.24,"conversion_total":313,"conversion_value_total":255345200},{"source":"naverbs","medium":"cpc2","users":6174,"new_users":5246,"sessions":2548,"bounce_rate":76.69,"avg_session_duration":4532,
+  "conversion_rate":12.25,"conversion_total":314,"conversion_value_total":25864600},{"source":"pc_naverbs","medium":"cpc3","users":6174,"new_users":5246,"sessions":2548,"bounce_rate":76.69,"avg_session_duration":4522,
+  "conversion_rate":12.26,"conversion_total":315,"conversion_value_total":25878900},{"source":"naver","medium":"cpc23","users":6174,"new_users":5246,"sessions":2548,"bounce_rate":76.69,"avg_session_duration":4500,
+  "conversion_rate":12.27,"conversion_total":31,"conversion_value_total":258578970},{"source":"pc_naverbs","medium":"cpc","users":6174,"new_users":5246,"sessions":2548,"bounce_rate":76.69,"avg_session_duration":45123,
+  "conversion_rate":12.20,"conversion_total":316,"conversion_value_total":258220},{"source":"naverbs","medium":"cpc","users":6174,"new_users":5246,"sessions":2548,"bounce_rate":76.69,"avg_session_duration":1235,
   "conversion_rate":12.29,"conversion_total":319,"conversion_value_total":211200}]
